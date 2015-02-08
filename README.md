@@ -1,3 +1,5 @@
+@pabloesc: Added plot1,plot2,plot3,plot4 R and PNG files for Assignment 1
+
 ## Introduction
 
 This assignment uses data from
